@@ -69,6 +69,7 @@ h4 {
 
 .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
     color: darkorange;
+    background-color: #44291A;
 }
 
 .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
@@ -141,7 +142,7 @@ margin-bottom: 0px;
 }
 
 footer {
-    background-color: #808080;
+    background-color: #FFEAE0;
     margin-bottom: 0px;
     padding-top: 30px;
     padding-bottom: 30px;
