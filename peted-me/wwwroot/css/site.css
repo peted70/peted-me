@@ -145,12 +145,12 @@ h4 {
     color: #492C1C;
     font-weight: 600;
 }
-.background-two.a {
+.background-two a {
     color: #492C1C;
     font-weight: 800;
 }
 
-.background-two.a:hover {
+.background-two a:hover {
     text-decoration: underline;
     color: #492C1C;
 }
@@ -160,11 +160,11 @@ h4 {
     color: #044454;
     font-weight: 600;
 }
-.background-three.a {
+.background-three a {
     color: #044454;
 }
 
-.background-three.a:hover {
+.background-three a:hover {
     text-decoration: underline;
     color: #044454;
 }
