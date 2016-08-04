@@ -136,14 +136,20 @@ h4 {
 
 .background-one {
     background-color: #DF5001;
+    color: #492C1C;
+    font-weight: 800;
 }
 
 .background-two {
     background-color: #F3D131;
+    color: #492C1C;
+    font-weight: 800;
 }
 
 .background-three {
     background-color: #077D9B;
+    color: #044454;
+    font-weight: 800;
 }
 
 footer {
