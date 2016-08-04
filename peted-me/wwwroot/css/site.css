@@ -146,7 +146,8 @@ h4 {
 }
 
 .background-one a:hover {
-    background-color: #F3D131;
+    color: #F3D131;
+    text-decoration: none;
 }
 
 .background-two {
@@ -161,6 +162,7 @@ h4 {
 
 .background-two a:hover {
     color: #ED8D5A;
+    text-decoration: none;
 }
 
 .background-three {
@@ -173,6 +175,7 @@ h4 {
 }
 
 .background-three a:hover {
+    text-decoration: none;
     color: #DF5001;
 }
 
