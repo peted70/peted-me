@@ -5,7 +5,7 @@
 
 body {
     padding-top: 50px;
-    font-family: 'Segoe 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif', sans-serif;
+    font-family: Verdana, Geneva, sans-serif;    
     font-size: 14pt;
     background-color: lightgray;
     margin-bottom: 110px;
@@ -38,7 +38,7 @@ h4 {
     margin-bottom: 10px;
 }
 .jumbotron {
-    color: #FE940D;
+    color: #FFC000;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('../images/banner-home.jpg');
 
     background-position: center center;
