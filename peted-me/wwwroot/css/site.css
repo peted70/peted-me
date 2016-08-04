@@ -146,8 +146,7 @@ h4 {
 }
 
 .background-one a:hover {
-    text-decoration: underline;
-    color: #492C1C;
+    background-color: #F3D131;
 }
 
 .background-two {
@@ -161,8 +160,7 @@ h4 {
 }
 
 .background-two a:hover {
-    text-decoration: underline;
-    color: #492C1C;
+    color: #ED8D5A;
 }
 
 .background-three {
@@ -175,8 +173,7 @@ h4 {
 }
 
 .background-three a:hover {
-    text-decoration: underline;
-    color: #044454;
+    color: #DF5001;
 }
 
 footer {
